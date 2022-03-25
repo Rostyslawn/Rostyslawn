@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rostyslawn
 - 👀 I’m interested in javascript
 - 🌱 I’m currently learning node.js
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rostyslawn02@gmail.com
 
 <!---
